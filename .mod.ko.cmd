@@ -1,0 +1,1 @@
+cmd_/home/pedro/Documents/faculdade/ihs/atv-07/mod.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/pedro/Documents/faculdade/ihs/atv-07/mod.ko /home/pedro/Documents/faculdade/ihs/atv-07/mod.o /home/pedro/Documents/faculdade/ihs/atv-07/mod.mod.o;  true
